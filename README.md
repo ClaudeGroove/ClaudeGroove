@@ -25,7 +25,6 @@ Skills: Python, R-studio, JS / HTML / CSS
 
 <img align ="left" width= "47%" src= "https://github-readme-stats.vercel.app/api?username=claudegroove&show_icons=true&theme=radical" />
 
-<img align ="left" width= "47%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
