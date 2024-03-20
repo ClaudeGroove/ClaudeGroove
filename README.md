@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jean-Claude Ndom Samba
 #### health data scientist
-![health data scientist](https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGhlYWx0aCUyMGNhcmUlMjBkYXRhJTIwc2NpZW5jZXxlbnwwfHwwfHx8MA%3D%3D)
+![health data scientist](https://images.unsplash.com/photo-1471864190281-a93a3070b6de?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGRhdGFzY2llbmNlJTIwc2FudGUlMjBmb250JTIwZWNyYW58ZW58MHx8MHx8fDA%3D)
 
 👋 Hello! I'm a passionate data scientist student with a diverse background in biology, microbiology, and quality control. Leveraging my solid foundation in these fields, I've embarked on a journey into the realm of data science. With a deep understanding of data science concepts and methodologies, I am enthusiastic about applying my skills to make impactful contributions in the healthcare sector.
 
@@ -16,8 +16,7 @@ Skills: Python, R-studio, JS / HTML / CSS
 - 🌱 I’m currently learning data science focus in health care 
 
 
-[<img width = "100%" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ClaudeGroove)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/claudesamba//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ClaudeSamba.com)  
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ClaudeGroove)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/claudesamba//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ClaudeSamba.com)  
 
 
 
