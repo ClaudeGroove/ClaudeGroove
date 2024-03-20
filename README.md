@@ -1,12 +1,11 @@
-## Hi there 👋 !!! 
+## Hi there 👋 !!!
 ### I'm Jean-Claude Ndom Samba
-
 #### health data scientist
 ![health data scientist](https://images.unsplash.com/photo-1488229297570-58520851e868?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fERBVEElMjBTQ0lFTkNFfGVufDB8fDB8fHww)
 
  🚀 I'm a passionate data scientist student with a diverse background in biology, microbiology, and quality control. Leveraging my solid foundation in these fields, I've embarked on a journey into the realm of data science. With a deep understanding of data science concepts and methodologies, I am enthusiastic about applying my skills to make impactful contributions in the healthcare sector.
 
-🧬 My roots in biology and microbiology have instilled in me a keen eye for detail and a rigorous approach to problem-solving. Through my experiences in quality control and diverse publoc health experiences, I've honed my ability to ensure accuracy and precision in data analysis.
+🧬 My roots in biology and microbiology have instilled in me a keen eye for detail and a rigorous approach to problem-solving. Through my experiences in quality control and diverse public health experiences, I've honed my ability to ensure accuracy and precision in data analysis.
 
 🔍 I'm currently on a quest to further develop my expertise in data science, exploring innovative ways to extract valuable insights from complex datasets. My ultimate goal is to leverage data-driven approaches to drive advancements in healthcare, ultimately improving patient outcomes and enhancing the quality of life.
 
@@ -14,12 +13,11 @@
 
 Skills: Python, R-studio, JS / HTML / CSS
 
-- 🔭 I’m currently working on my skills 
+- 🔭 I’m currently working on my skill 
 - 🌱 I’m currently learning data science focus in health care 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width= '100%' height='40'>](https://github.com/https://github.com/ClaudeGroove)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width= '100%' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/claudesamba//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' width= '100%' height='40'>](https://twitter.com/ClaudeSamba.com)  
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ClaudeSamba.com)  
 
 
 
