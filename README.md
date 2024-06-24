@@ -1,3 +1,5 @@
+#### About
+Detail-oriented Data Science and Machine Learning graduate from MIT University Bootcamp with a strong foundation in healthcare. Experience in utilizing diverse programming skills and advanced analytics to uncover insights and drive data-driven decisions. Skilled in statistical analysis, data visualization and machine learning applications. Eager to contribute to the healthcare sector by optimizing processes and improving patient outcomes through data-driven strategies
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
