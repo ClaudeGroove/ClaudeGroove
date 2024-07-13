@@ -4,6 +4,8 @@ Detail-oriented Data Science and Machine Learning graduate from MIT University B
 ### Technologies
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=claudegroove&show_icons=true&theme=transparent" />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
